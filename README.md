@@ -27,6 +27,10 @@ Most gaming overlays are static. When you move from a dark cave to a bright snow
 
 ---
 
+IMPORTANT: For CS2 and other Source 2 games, you MUST use "Windowed Borderless" mode in Video Settings. The overlay will not show in "Full Screen".
+
+****
+
 ## 🛠 Controls & Usage
 1.  **Run `Pointer by S.G.S.exe`**: Look for the crosshair icon in your System Tray.
 2.  **Right-Click Tray Icon**: 
