@@ -68,7 +68,7 @@ This project demonstrates advanced use of the **Windows API**:
 - [ ] More types of crosshairs.
 - [ ] Multi-monitor support.
 
-- [ ] 
+
 ---
 **Author:** [Stachev Gleb /  https://github.com/StachevGleb]  
 **License**
