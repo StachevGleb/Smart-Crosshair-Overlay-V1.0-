@@ -67,14 +67,14 @@ This project demonstrates advanced use of the **Windows API**:
 - [ ] Transparency/Alpha-blending slider.
 - [ ] More types of crosshairs.
 - [ ] Multi-monitor support.
+
 - [ ] 
----
-
-⚠️ Note on Antivirus: Because this tool is not digitally signed and performs screen overlays, some browsers/antiviruses may flag it as a "False Positive". This is a common issue with small C++ utilities. You can check the source code (if provided) or run it in a sandbox.
-
 ---
 **Author:** [Stachev Gleb /  https://github.com/StachevGleb]  
 **License**
+
+---
+⚠️ Note on Antivirus: Because this tool is not digitally signed and performs screen overlays, some browsers/antiviruses may flag it as a "False Positive". This is a common issue with small C++ utilities. You can check the source code (if provided) or run it in a sandbox.
 ---
 
 ## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
