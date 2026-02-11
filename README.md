@@ -87,7 +87,7 @@ Because this tool is an unsigned .exe that captures screen pixels for the smart 
 ---
 
 ### 📥 Download
-To avoid browser false-positives, the executable is provided inside a ZIP archive.**
+To avoid browser false-positives, the executable is provided inside a ZIP and RAR archives.**
 * **[Download Smart Crosshair Overlay (RAR)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.rar)**
 * **[Download Smart Crosshair Overlay (ZIP)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.zip)**
 ---
