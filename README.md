@@ -35,6 +35,8 @@ Most gaming overlays are static. When you move from a dark cave to a bright snow
 3.  **Adjust Position**: Use **Arrow Keys** to move the crosshair pixel-by-pixel.
 4.  **Save**: Settings save instantly upon closing or changing modes.
 
+📽️ Video Demonstration
+
 ---
 
 ## 💻 Technical Details (For Developers/Recruiters)
