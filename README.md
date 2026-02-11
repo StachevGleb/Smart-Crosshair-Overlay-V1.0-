@@ -36,7 +36,7 @@ Most gaming overlays are static. When you move from a dark cave to a bright snow
 4.  **Save**: Settings save instantly upon closing or changing modes.
 
 📽️ Video Demonstration
-
+![video](croshair_gif.mp4)
 ---
 
 ## 💻 Technical Details (For Developers/Recruiters)
