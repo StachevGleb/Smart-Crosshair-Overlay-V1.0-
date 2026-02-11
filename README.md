@@ -27,7 +27,7 @@ Most gaming overlays are static. When you move from a dark cave to a bright snow
 
 ---
 
-IMPORTANT: For CS2 and other Source 2 games, you MUST use "Windowed Borderless" mode in Video Settings. The overlay will not show in "Full Screen".
+## IMPORTANT: For CS2 and other Source 2 games, you MUST use "Windowed Borderless" mode in Video Settings. The overlay will not show in "Full Screen".
 
 ****
 
