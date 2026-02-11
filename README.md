@@ -70,7 +70,7 @@ This project demonstrates advanced use of the **Windows API**:
 
 ---
 **Author:** [Stachev Gleb /  https://github.com/StachevGleb]  
-**License:** MIT
+**License**
 ---
 
 ## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
