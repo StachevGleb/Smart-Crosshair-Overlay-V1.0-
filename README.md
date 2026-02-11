@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/05bae6ef-ee46-498b-8e6c-61ea6749d30c
 
 ---
 
-## 💻 Technical Details (For Developers/Recruiters)
+## 💻 Technical Details (For Developers)
 This project demonstrates advanced use of the **Windows API**:
 * **Custom drawing**: Flicker-free overlays.
 * **System Hooks**: Implementing global hotkeys for positioning.
