@@ -1,4 +1,4 @@
-# ![SGS_Logo](logo.ico)  Smart Crosshair Overlay (V1.0) ![SGS_Logo](logo.ico) 
+# ![SGS_Logo](logo.ico)  Smart Crosshair Overlay (V1.0)  
 
 A lightweight, performance-focused C++ utility that provides a "Smart" crosshair overlay for Windows. Unlike static overlays, this pointer uses a real-time brightness detection engine to ensure your aim point never camouflages into the background.
 
