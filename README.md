@@ -79,9 +79,16 @@ This project demonstrates advanced use of the **Windows API**:
 
 ## 🛡️ Security Report
 Because this tool is an unsigned .exe that captures screen pixels for the smart contrast logic, some engines may flag it.
+---
+
 
 * **VirusTotal Result:** [5/70 Detection (False Positive)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
 * **Status:** Safe to use. Most major engines (Microsoft, Kaspersky, ESET) show the file is clean.
+---
+
+### 📥 Download
+To avoid browser false-positives, the executable is provided inside a ZIP archive.
+* **[Download Smart Crosshair Overlay (RAR)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.rar)**
 ---
 
 ## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
