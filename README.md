@@ -77,4 +77,11 @@ This project demonstrates advanced use of the **Windows API**:
 ⚠️ Note on Antivirus: Because this tool is not digitally signed and performs screen overlays, some browsers/antiviruses may flag it as a "False Positive". This is a common issue with small C++ utilities. You can run it in a sandbox.
 ---
 
+## 🛡️ Security Report
+Because this tool is an unsigned .exe that captures screen pixels for the smart contrast logic, some engines may flag it.
+
+* **VirusTotal Result:** [5/70 Detection (False Positive)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
+* **Status:** Safe to use. Most major engines (Microsoft, Kaspersky, ESET) show the file is clean.
+---
+
 ## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
