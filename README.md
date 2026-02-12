@@ -84,6 +84,8 @@ Because this tool is an unsigned .exe that captures screen pixels for the smart 
 * **VirusTotal Result:** [5/70 Detection (False Positive)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
 * **Status:** Safe to use. Most major engines (Microsoft, Kaspersky, ESET) show the file is clean.
 ---
+If you find this tool helpful, please leave a ⭐ to support the project!"
+---
 
 ### 📥 Download
 To avoid browser false-positives, the executable is provided inside a ZIP and RAR archives.
