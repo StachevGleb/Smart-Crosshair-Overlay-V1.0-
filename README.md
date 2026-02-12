@@ -94,3 +94,8 @@ To avoid browser false-positives, the executable is provided inside a ZIP and RA
 ---
 
 ## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
+
+---
+
+**Enjoying this project?** Help me keep it updated by [supporting me on Buy Me a Coffee](https://www.buymeacoffee.com/StachevGleb). Cheers! ☕
+
