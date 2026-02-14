@@ -95,9 +95,6 @@ Some antivirus software (notably **Windows Defender**) may flag this tool as a "
 If you find this tool helpful, please leave a ⭐ to support the project!
 ---
 
-If you find this tool helpful, please leave a ⭐ to support the project!"
----
-
 ### 📥 Download
 To avoid browser false-positives, the executable is provided inside a ZIP and RAR archives.
 * **[Download Smart Crosshair Overlay (RAR)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.rar)**
