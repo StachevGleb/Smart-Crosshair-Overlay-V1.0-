@@ -75,15 +75,20 @@ This project demonstrates advanced use of the **Windows API**:
 ---
 ⚠️ Note on Antivirus: Because this tool is not digitally signed and performs screen overlays, some browsers/antiviruses may flag it as a "False Positive". This is a common issue with small C++ utilities. You can run it in a sandbox.
 ---
+## 🛡️ Security & False Positives
+Since this tool uses standard Windows API functions to:
+1. **GetPixel**: To detect background brightness and change color.
+2. **RegisterHotKey**: To allow you to move the overlay with arrow keys.
+3. **WS_EX_TOPMOST**: To stay visible over the game window.
 
-## 🛡️ Security Report
-Because this tool is an unsigned .exe that captures screen pixels for the smart contrast logic, some engines may flag it.
----
-
+Some antivirus software (like Windows Defender) might flag it as a "False Positive" (e.g., Trojan:Win32/Wacatac). This is a common issue for small, unsigned C++ tools.
 
 * **VirusTotal Result:** [5/70 Detection (False Positive)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
 * **Status:** Safe to use. Most major engines (Microsoft, Kaspersky, ESET) show the file is clean.
+* ** If you check it and can see virus:
+* **AI-driven Detection (!ml): The !ml tag (Machine Learning) indicates that the antivirus AI is essentially 'guessing.' Because the application is a small, newly released binary without a paid Microsoft digital signature (which costs hundreds of dollars), the AI automatically flags it as a potential threat by default.
 ---
+
 If you find this tool helpful, please leave a ⭐ to support the project!"
 ---
 
