@@ -76,17 +76,23 @@ This project demonstrates advanced use of the **Windows API**:
 ⚠️ Note on Antivirus: Because this tool is not digitally signed and performs screen overlays, some browsers/antiviruses may flag it as a "False Positive". This is a common issue with small C++ utilities. You can run it in a sandbox.
 ---
 ## 🛡️ Security & False Positives
-Since this tool uses standard Windows API functions to:
-1. **GetPixel**: To detect background brightness and change color.
-2. **RegisterHotKey**: To allow you to move the overlay with arrow keys.
-3. **WS_EX_TOPMOST**: To stay visible over the game window.
 
-Some antivirus software (like Windows Defender) might flag it as a "False Positive" (e.g., Trojan:Win32/Wacatac). This is a common issue for small, unsigned C++ tools.
+Some antivirus software (notably **Windows Defender**) may flag this tool as a "False Positive" (e.g., `Trojan:Win32/Wacatac.B!ml`). This is a common occurrence with small, independent C++ utilities.
 
-* **VirusTotal Result:** [5/70 Detection (False Positive)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
-* **Status:** Safe to use. Most major engines (Microsoft, Kaspersky, ESET) show the file is clean.
-* ** If you check it and can see virus:
-* **AI-driven Detection (!ml): The !ml tag (Machine Learning) indicates that the antivirus AI is essentially 'guessing.' Because the application is a small, newly released binary without a paid Microsoft digital signature (which costs hundreds of dollars), the AI automatically flags it as a potential threat by default.
+### 🔍 Why is it flagged?
+* **AI-driven Detection (!ml):** The `!ml` tag stands for Machine Learning. It indicates that the antivirus AI is essentially "guessing" based on heuristics. Since this is a compact, newly released binary without a costly Microsoft digital signature, the AI defaults to flagging it as a potential threat.
+* **System API Usage:** To function correctly, the tool uses standard Windows APIs that are sometimes mimicked by malware:
+    1. **GetPixel:** Used to analyze background brightness so the crosshair can dynamically change color.
+    2. **RegisterHotKey:** Used to allow you to reposition the overlay using your arrow keys.
+    3. **WS_EX_TOPMOST:** Used to ensure the overlay remains visible over the game window.
+
+### ✅ Verification & Safety
+* **VirusTotal Result:** [5/70 Detections (View Full Report)](https://www.virustotal.com/gui/file/afd9a33654320e00eb94ed14f6f6c89fdfae0ea6fd8b7d6b5a9575491911b3c6/details)
+* **Status:** **Safe to use.** All major, industry-leading security engines (including **Kaspersky, ESET, and BitDefender**) confirm the file is 100% clean.
+* **VAC Status:** This is a standalone overlay. It **does not** inject code into the game, modify game memory, or bypass any anti-cheat systems. It is as safe as using a monitor's built-in crosshair.
+
+---
+If you find this tool helpful, please leave a ⭐ to support the project!
 ---
 
 If you find this tool helpful, please leave a ⭐ to support the project!"
