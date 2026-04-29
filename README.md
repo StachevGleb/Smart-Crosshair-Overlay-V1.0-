@@ -97,15 +97,15 @@ If you find this tool helpful, please leave a ⭐ to support the project!
 
 ### 📥 Download
 To avoid browser false-positives, the executable is provided inside a ZIP and RAR archives.
-For v1.0:
+### For v1.0:
 * **[Download Smart Crosshair Overlay (RAR)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.rar)**
 * **[Download Smart Crosshair Overlay (ZIP)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/Pointer%20by%20S.G.S.zip)**
-For v1.1:
+### For v1.1:
 * **[Download Smart Crosshair Overlay (RAR)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/SmartCrosshair.rar)**
 * **[Download Smart Crosshair Overlay (ZIP)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/blob/master/SmartCrosshair.zip)**
 ---
 
-## 📥 [Download Pointer by S.G.S.exe (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
+## 📥 [Download Pointer by S.G.S.exe (Previous Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/latest)
 ## 📥 [Download Smart Crosshair Overlay (Latest Version)](https://github.com/StachevGleb/Smart-Crosshair-Overlay-V1.0-/releases/tag/v1.1.0)
 ---
 
