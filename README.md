@@ -111,3 +111,8 @@ To avoid browser false-positives, the executable is provided inside a ZIP and RA
 
 **Enjoying this project?** Help me keep it updated by [supporting me on Buy Me a Coffee](https://www.buymeacoffee.com/StachevGleb). Cheers! ☕
 
+
+### 🎮 Steam Version (Full/Paid Version)
+* **[Smart Crosshair on Steam](https://store.steampowered.com/app/5012860/Smart_Crosshair/)** (This is the paid version; the GitHub version is a free, stripped-down version)
+* **[Video Tutorial](https://youtu.be/4VxjIkldrI8?si=LEDUR7VoxNyaPrkp)**
+
